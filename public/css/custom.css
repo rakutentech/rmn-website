@@ -8,3 +8,35 @@
 .box-simple {
   min-height: 230px;
 }
+
+.jumbotron {
+  padding: 30px;
+  margin-bottom: 0;
+  position: relative;
+  background: url('../img/background-sea.jpg') center center repeat;
+  background-size: cover;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+
+.jumbotron .container {
+  max-width: 100%;
+  z-index: 2;
+  min-height: 350px;
+  padding-top: 50px;
+}
+
+.jumbotron h1 {
+  font-size: 80px;
+}
+
+.jumbotron h1,
+.jumbotron h2,
+.jumbotron h3 {
+  color: #ffffff;
+}
+
+.home-carousel ul {
+  color: #fff;
+}

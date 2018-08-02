@@ -128,18 +128,26 @@ paginate = 10
 [params.see_more]
     enable = true
     icon = "fa fa-file-code-o"
-    title = "Join us on Confluence"
-    subtitle = "Stay up to date with our latest internal activities"
+    title = "Confluence"
+    subtitle = "Stay up to date with our activities"
     link_url = "https://confluence.rakuten-it.com/confluence/display/RMN/"
     link_text = "Join"
 
 [params.see_more_2]
     enable = true
     icon_2 = "fa fa-file-code-o"
-    title_2 = "Follow us on Facebook"
-    subtitle_2 = "Like our Facebook page"
+    title_2 = "Facebook"
+    subtitle_2 = "Follow us on Facebook"
     link_url_2 = "https://www.facebook.com/rakutenmindfulness/"
     link_text_2 = "Follow"
+
+[params.see_more_3]
+    enable = true
+    icon_3 = "fa fa-file-code-o"
+    title_3 = "Membership"
+    subtitle_3 = "Join the network. Become a practictioner!"
+    link_url_3 = "https://forms.office.com/Pages/ResponsePage.aspx?id=2bCoUwDZzEidflk13I1bF8Fwse-CEctDt39AX8Zug0NUODhCWjFBWFoxWEhXSVFJVlZXTlZONUhQUy4u"
+    link_text_3 = "Join"
 
 [params.clients]
     enable = false

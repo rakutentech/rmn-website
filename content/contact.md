@@ -3,8 +3,20 @@ title = "Contact"
 id = "contact"
 +++
 
-# We are here to help you
+# Contact
 
-Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
+Rakuten Mindfulness Network is open for collaboration with academia, thought leaders and companies working in the field of mindfulness based corporate wellbeing.  Especially we work with academia through a collaboration with RIT on topics such as understanding of mindfulness, organizational behavior and workplace wellbeing. If you are interested in these topics we like would to get to know you.
 
-Please feel free to contact us, our customer service center is working for you 24/7.
+You can contact us by email here: rakuten-mindfulness@mail.rakuten.com
+
+If you are interested in featuring our activities in news media please directly contact Rakuten Media Room (https://global.rakuten.com/corp/news/press/contact/).
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />

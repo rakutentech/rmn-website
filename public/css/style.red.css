@@ -795,7 +795,7 @@ fieldset[disabled] .btn-template-primary.active {
   padding: 30px;
   margin-bottom: 0;
   position: relative;
-  background: url('../img/photogrid.jpg') center center repeat;
+  background: url('../img/background-sea.jpg') center center repeat;
   background-size: cover;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
@@ -822,8 +822,6 @@ fieldset[disabled] .btn-template-primary.active {
 .jumbotron h2,
 .jumbotron h3 {
   color: #ffffff;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
 }
 .jumbotron p {
   margin-bottom: 20px;
@@ -842,6 +840,7 @@ fieldset[disabled] .btn-template-primary.active {
 .jumbotron .container {
   max-width: 100%;
   z-index: 2;
+  min-height: 350px;
 }
 @media screen and (min-width: 768px) {
   .jumbotron {
@@ -1177,7 +1176,7 @@ fieldset[disabled] .btn-template-primary.active {
 .home-carousel h3,
 .home-carousel p,
 .home-carousel ul {
-  color: #000;
+  color: #fff;
 }
 @media (max-width: 991px) {
   .home-carousel h1 {
