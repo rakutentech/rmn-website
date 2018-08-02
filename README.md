@@ -1,2 +1,2 @@
-# rmn-website
-Rakuten Mindfulness Network website
+## Rakuten Mindfulness Network website
+

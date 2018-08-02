@@ -1,0 +1,25 @@
+{{ if isset .Site.Params "see_more" }}
+{{ if .Site.Params.see_more.enable }}
+<section class="bar background-image-fixed-2 no-mb color-white text-center">
+    <div class="dark-mask"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <h3 class="text-uppercase">{{ .Site.Params.see_more.title }}</h3>
+                <p class="lead">{{ .Site.Params.see_more.subtitle }}</p>
+                <p class="text-center">
+                    <a href="{{ .Site.Params.see_more.link_url }}" class="btn btn-template-transparent-black btn-lg">{{ .Site.Params.see_more.link_text }}</a>
+                </p>
+            </div>
+            <div class="col-md-6">
+                <h3 class="text-uppercase">{{ .Site.Params.see_more_2.title_2 }}</h3>
+                <p class="lead">{{ .Site.Params.see_more_2.subtitle_2 }}</p>
+                <p class="text-center">
+                    <a href="{{ .Site.Params.see_more_2.link_url_2 }}" class="btn btn-template-transparent-black btn-lg">{{ .Site.Params.see_more_2.link_text_2 }}</a>
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}

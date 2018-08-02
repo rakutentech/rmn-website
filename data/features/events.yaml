@@ -1,0 +1,5 @@
+weight: 3
+name: "Events"
+icon: "fa fa-calendar fa-3x"
+description: >
+  <p>Never miss an event. <br />Check out our <a href="/schedule">schedule</a></p>
