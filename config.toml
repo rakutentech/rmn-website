@@ -125,6 +125,10 @@ paginate = 10
     title = "Testimonials"
     subtitle = ""
 
+[params.media]
+    enable = true
+    title = "Media Mentions"
+
 [params.see_more]
     enable = true
     icon = "fa fa-file-code-o"

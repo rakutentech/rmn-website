@@ -72,6 +72,10 @@
   transition: all 0.2s ease-out;
 }
 
+.media {
+  margin-bottom: 35px;
+}
+
 .jumbotron-media {
   padding: 30px;
   margin-bottom: 0;

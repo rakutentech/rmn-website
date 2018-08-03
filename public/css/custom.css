@@ -67,11 +67,13 @@
 }
 
 .jumbotron-no-background {
-  padding: 30px;
-  margin-bottom: 0;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
+}
+
+.media {
+  margin-bottom: 35px;
 }
 
 .jumbotron-media {
