@@ -107,3 +107,12 @@
   font-weight: 800;
   letter-spacing: 0.08em;
 }
+
+.box-simple {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.box-simple p {
+  text-align: center;
+}
