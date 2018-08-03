@@ -40,3 +40,49 @@
 .home-carousel ul {
   color: #fff;
 }
+
+.jumbotron-contact {
+  padding: 30px;
+  margin-bottom: 0;
+  min-height: 150px;
+  position: relative;
+  background: url('../img/contact.jpg') center center repeat;
+  background-size: cover;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+
+.jumbotron-about {
+  padding: 30px;
+  margin-bottom: 0;
+  min-height: 150px;
+  position: relative;
+  background: url('../img/about.jpg') center center repeat;
+  background-size: cover;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+
+.jumbotron-media {
+  margin-bottom: 0;
+  min-height: 150px;
+  position: relative;
+  background: url('../img/media.jpg') center no-repeat;
+  background-size: cover;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+
+.jumbotron-events {
+  margin-bottom: 0;
+  min-height: 150px;
+  position: relative;
+  background: url('../img/calendar.jpg') repeat;
+  background-size: cover;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}

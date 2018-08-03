@@ -4,6 +4,10 @@ description = "Who we are"
 keywords = ["about"]
 +++
 
+<div class="jumbotron-about">
+            
+</div>
+
 # Who We Are? Why do we do what we do?
 
 Rakuten Mindfulness Network (RMN) is an company supported employee-driven community established in July 2017 that aspires to uplift work and life of Rakutenians through mindfulness-based approaches . Employees who volunteer their time and talent to achieve this goal are the RMN Core Members. 
