@@ -4,11 +4,10 @@ description = ""
 keywords = ["events", "schedule"]
 +++
 <div class="jumbotron-events">
-            
+    <div class="container">
+        <h1 class="text-center">Coming events</h1>
+    </div>             
 </div>
-
-# Coming events
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+<br />
+<br />
+The next events go in this page.

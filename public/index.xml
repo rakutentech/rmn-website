@@ -37,7 +37,7 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/contact/</guid>
-      <description>Contact Rakuten Mindfulness Network is open for collaboration with academia, thought leaders and companies working in the field of mindfulness based corporate wellbeing. Especially we work with academia through a collaboration with RIT on topics such as understanding of mindfulness, organizational behavior and workplace wellbeing. If you are interested in these topics we like would to get to know you.
+      <description>Rakuten Mindfulness Network is open for collaboration with academia, thought leaders and companies working in the field of mindfulness based corporate wellbeing. Especially we work with academia through a collaboration with RIT on topics such as understanding of mindfulness, organizational behavior and workplace wellbeing. If you are interested in these topics we like would to get to know you.
 You can contact us by email here: rakuten-mindfulness@mail.rakuten.com
 If you are interested in featuring our activities in news media please directly contact Rakuten Media Room (https://global.</description>
     </item>
@@ -48,7 +48,8 @@ If you are interested in featuring our activities in news media please directly 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/schedule/</guid>
-      <description>  Coming events  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam tincidunt mauris eu risus. Vestibulum auctor dapibus neque.  </description>
+      <description>Coming events 
+ The next events go in this page.</description>
     </item>
     
     <item>
@@ -57,7 +58,8 @@ If you are interested in featuring our activities in news media please directly 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/media/</guid>
-      <description>They talked about us Put links here.</description>
+      <description>Media mentions 
+ Put any link here.</description>
     </item>
     
     <item>
@@ -66,8 +68,7 @@ If you are interested in featuring our activities in news media please directly 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Who We Are? Why do we do what we do? Rakuten Mindfulness Network (RMN) is an company supported employee-driven community established in July 2017 that aspires to uplift work and life of Rakutenians through mindfulness-based approaches . Employees who volunteer their time and talent to achieve this goal are the RMN Core Members.
-The Core Members are mindfulness practitioners who have benefited from their experiences of mindfulness practice. Their involvement with RMN is based on mindfulness1, compassion2, and joy3 to create a better workplace at Rakuten.</description>
+      <description>Who We Are?   Rakuten Mindfulness Network (RMN) is an company supported employee-driven community established in July 2017 that aspires to uplift work and life of Rakutenians through mindfulness-based approaches . Employees who volunteer their time and talent to achieve this goal are the RMN Core Members. The Core Members are mindfulness practitioners who have benefited from their experiences of mindfulness practice. Their involvement with RMN is based on mindfulness1, compassion2, and joy3 to create a better workplace at Rakuten.</description>
     </item>
     
   </channel>
