@@ -10,13 +10,3 @@ Rakuten Mindfulness Network is open for collaboration with academia, thought lea
 You can contact us by email here: rakuten-mindfulness@mail.rakuten.com
 
 If you are interested in featuring our activities in news media please directly contact Rakuten Media Room (https://global.rakuten.com/corp/news/press/contact/).
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />

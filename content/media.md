@@ -10,16 +10,3 @@ keywords = ["media"]
 # They talked about us
 Put links here.
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />

@@ -54,13 +54,3 @@ Therefore, RMN activities are an opportunity for the Core Members to apply and i
 * Mika Reilly 
 * Kate Neath
 * Pierre Imai
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>

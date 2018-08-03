@@ -92,3 +92,17 @@
   padding: 50px 0;
   color: #1a1919;
 }
+
+#footer h1,
+#footer h2,
+#footer h3,
+#footer h4,
+#footer h5,
+#footer h6 {
+  color: #000000;
+}
+#footer h4 {
+  font-size: 14px;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+}
