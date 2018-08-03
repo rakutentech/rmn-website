@@ -21,24 +21,24 @@ Therefore, RMN activities are an opportunity for the Core Members to apply and i
   <div class="col-sm-4">
     <div class="card">
       <div class="card-body">
-        <h3 class="card-title">Mindfulness</h3>
-        <p class="card-text">receptive attention to and awareness of present events and experience without any bias or judgments</p>
+        <h3 class="card-title bg-info text-center">Mindfulness</h3>
+        <p class="card-text">Receptive attention to and awareness of present events and experience without any bias or judgments</p>
       </div>
     </div>
   </div>
   <div class="col-sm-4">
     <div class="card">
       <div class="card-body">
-        <h3 class="card-title">Compassion</h3>
-        <p class="card-text">actions based on loving kindness towards people around you and yourself </p>
+        <h3 class="card-title bg-info text-center">Compassion</h3>
+        <p class="card-text">Actions based on loving kindness towards people around you and yourself </p>
       </div>
     </div>
   </div>
   <div class="col-sm-4">
     <div class="card">
       <div class="card-body">
-        <h3 class="card-title">Joy</h3>
-        <p class="card-text">pure joy unadulterated by self-interest, especially joy arising from goodness, generosity, loving-kindness, and compassion</p>
+        <h3 class="card-title bg-info text-center">Joy</h3>
+        <p class="card-text">Pure joy unadulterated by self-interest, especially joy arising from goodness, generosity, loving-kindness, and compassion</p>
       </div>
     </div>
   </div>
