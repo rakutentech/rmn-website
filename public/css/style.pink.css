@@ -2515,11 +2515,12 @@ fieldset[disabled] .btn-template-primary.active {
 #footer h4,
 #footer h5,
 #footer h6 {
-  color: #1f1d1d;
+  color: #eeeeee;
 }
 #footer h4 {
   font-size: 14px;
   font-weight: 800;
+  text-transform: uppercase;
   letter-spacing: 0.08em;
 }
 #footer ul {
