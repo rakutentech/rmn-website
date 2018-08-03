@@ -1,7 +1,5 @@
 +++
 title = "Event schedule"
-description = ""
-keywords = ["events", "schedule"]
 +++
 <div class="jumbotron-events">
     <div class="container">

@@ -6,7 +6,7 @@
     <description>Recent content in News on Rakuten Mindfulness Network</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jun 2015 13:50:46 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2015 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>This is a test post</title>
       <link>/news/test-post/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      <pubDate>Wed, 24 Jun 2015 00:00:00 +0000</pubDate>
       
       <guid>/news/test-post/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.

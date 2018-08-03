@@ -1,6 +1,6 @@
----
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-draft: true
----
++++
+title = "This is the title"
+date = "YYYY-MM-DD"
+banner = "img/news/xxxxxxxxxx.png"
++++
 

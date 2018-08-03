@@ -1,9 +1,7 @@
 +++
 title = "This is a test post"
-date = "2015-06-24T13:50:46+02:00"
-tags = ["theme"]
-categories = ["starting"]
-banner = "img/carousel/event-1.png"
+date = "2015-06-24"
+banner = "img/news/event-1.png"
 +++
 
 ## Introduction
