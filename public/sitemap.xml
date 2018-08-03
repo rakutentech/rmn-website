@@ -3,13 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/news/another-test/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <loc>/news/test-post/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/news/test-post/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <loc>/news/another-test/</loc>
   </url>
   
   <url>
@@ -26,30 +25,18 @@
   </url>
   
   <url>
-    <loc>/tags/go/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/media/</loc>
   </url>
   
   <url>
     <loc>/news/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/programming/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -61,7 +48,6 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   

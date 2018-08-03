@@ -1,9 +1,6 @@
 +++
 title = "Another test news"
-date = "2015-09-17T13:47:08+02:00"
-tags = ["go"]
-categories = ["programming"]
-banner = "img/banners/banner-2.jpg"
+
 +++
 
 Hugo uses the excellent [go][] [html/template][gohtmltemplate] library for
