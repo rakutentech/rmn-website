@@ -1,5 +1,5 @@
 +++
-title = "Go is for lovers"
+title = "Another test news"
 date = "2015-09-17T13:47:08+02:00"
 tags = ["go"]
 categories = ["programming"]
