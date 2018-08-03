@@ -1,10 +1,7 @@
 weight: 1
 name: "Mission"
 icon: "fa fa-check-circle fa-3x"
-description: "<p>Rakuten Mindfulness Network is a company supported employee-driven initiative for promoting wellbeing among Rakutenians.</p> 
-
-<p>We use scientifically backed mindfulness-based approaches for reaching this goal. </p> 
-
-<p>Currently we organize workshops, group meditation sessions, invited talks and various community activities. </p> 
-
-<p>Furthermore, RMN contributes to the scientific community through our collaborations with RIT.</p>" 
+description: "<p style=\"text-align: left\">Rakuten Mindfulness Network is a company supported employee-driven initiative for promoting wellbeing among Rakutenians.</p> 
+<p style=\"text-align: left\">We use scientifically backed mindfulness-based approaches for reaching this goal. </p> 
+<p style=\"text-align: left\">Currently we organize workshops, group meditation sessions, invited talks and various community activities. </p> 
+<p style=\"text-align: left\">Furthermore, RMN contributes to the scientific community through our collaborations with RIT.</p>" 
