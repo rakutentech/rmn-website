@@ -23,11 +23,11 @@ paginate = 10
 
 [[menu.main]]
     name = "News"
-    url  = "/blog/"
+    url  = "/news/"
     weight = 2
 
 [[menu.main]]
-    name = "Media"
+    name = "Media mentions"
     url  = "/media/"
     weight = 3
 
@@ -56,7 +56,7 @@ paginate = 10
     pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 [params]
-    viewMorePostLink = "/blog/"
+    viewMorePostLink = "/news/"
     author = "DevCows"
     defaultKeywords = ["devows", "hugo", "go"]
     defaultDescription = "Site template made by devcows using hugo"
@@ -92,7 +92,7 @@ paginate = 10
     address = "Rakuten Crimson House, 158-0094 1-14-1 Tamagawa, Setagaya-ku, Tokyo"
 
 [Permalinks]
-    blog = "/blog/:year/:month/:day/:filename/"
+    blog = "/news/:year/:month/:day/:filename/"
 
 # Enable or disable top bar with social icons
 [params.topbar]
