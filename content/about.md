@@ -46,12 +46,4 @@ Therefore, RMN activities are an opportunity for the Core Members to apply and i
 
 ### The core members:
 
-* Udana Bandara
-* Cary Foster
-* Naoki Fujimoto
-* Billie Cole
-* Arno Alarcon
-* Chiaki Okawa
-* Mika Reilly 
-* Kate Neath
-* Pierre Imai
+* List of core members
