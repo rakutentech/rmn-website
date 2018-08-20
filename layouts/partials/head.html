@@ -3,7 +3,7 @@
   <meta name="robots" content="all,follow">
   <meta name="googlebot" content="index,follow,snippet,archive">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ .Site.Params.Title }}</title>
+  <title>{{ .Title }}</title>
 
   {{ if .Keywords }}
   <meta name="keywords" content="{{ delimit .Keywords ", " }}">
@@ -53,10 +53,10 @@
   <link href="{{ .Site.BaseURL }}css/owl.carousel.css" rel="stylesheet">
   <link href="{{ .Site.BaseURL }}css/owl.theme.css" rel="stylesheet">
 
-  <link rel="alternate" href="{{ "/index.xml" | absURL }}" type="application/rss+xml" title="{{ .Site.Params.Title }}">
+  <link rel="alternate" href="{{ "/index.xml" | absURL }}" type="application/rss+xml" title="{{ .Title }}">
 
   <!-- Facebook OpenGraph tags -->
-  <meta property="og:title" content="{{ .Site.Params.Title }}" />
+  <meta property="og:title" content="{{ .Title }}" />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="{{ .URL }}/" />
   <meta property="og:image" content="{{ .Site.Params.logosns }}" />
