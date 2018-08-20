@@ -1,11 +1,15 @@
+# <------ START OF HUGO GENERAL SETTINGS ------>
+
 baseurl = "/"
 title = "Rakuten Mindfulness Network"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
-# Enable comments by entering your Disqus shortname
-# disqusShortname = "devcows"
+
+# !!! COMMENTS ARE DISABLED IN THE WEBSITE - Enable comments by entering your Disqus shortname
+# disqusShortname = ""
+
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
@@ -41,8 +45,11 @@ paginate = 10
     url  = "/contact/"
     weight = 5
 
-# Top bar social links menu
+# <------ END OF HUGO GENERAL SETTINGS ------>
 
+# <------ START OF THEME SPECIFIC SETTINGS ------>
+
+# !!! NOT USED # Top bar social links menu
 [[menu.topbar]]
     weight = 1
     name = "Facebook"
@@ -50,17 +57,19 @@ paginate = 10
     pre = "<i class='fa fa-2x fa-facebook'></i>"
 
 [params]
+    subtitle = "Uplifting work and life of Rakutenians through mindfulness-based approaches"
     viewMorePostLink = "/news/"
     author = "Udana Bandara - Alessandro Baffa"
     defaultKeywords = ["rakuten", "mindfulness", "meditation", "rakuten-mindfulness", "wellbeing"]
     defaultDescription = "Rakuten Mindfulness Network"
 
-    # Google Maps API key (if not set will default to not passing a key.)
+    # !!! NOT USED. LEAVE IT EMPTY - Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = ""
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "red"
 
+    # !!! NOT USED
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
     # email. Visitors can send up to a 1000 emails each month for free.
@@ -74,7 +83,7 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "your@email.com"
+    # email = "your@email.com"
 
     about_us = "<p>We are the Rakuten Mindfulness Network</p>"
     copyright = "Copyright (c) 2018, Rakuten; all rights reserved."
@@ -160,3 +169,5 @@ paginate = 10
     enable = true
     title = "Latest news"
     subtitle = ""
+
+# <------ END OF THEME SPECIFIC SETTINGS ------>
