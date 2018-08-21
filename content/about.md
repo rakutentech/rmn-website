@@ -44,6 +44,9 @@ Therefore, RMN activities are an opportunity for the Core Members to apply and i
   </div>
 </div>
 
-### The core members:
 
-* List of core members
+
+
+
+
+
