@@ -7,11 +7,8 @@ languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
 
-# !!! COMMENTS ARE DISABLED IN THE WEBSITE - Enable comments by entering your Disqus shortname
-# disqusShortname = ""
-
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-115772631-1"
 
 # Define the number of posts per page
 paginate = 10
@@ -49,41 +46,14 @@ paginate = 10
 
 # <------ START OF THEME SPECIFIC SETTINGS ------>
 
-# !!! NOT USED # Top bar social links menu
-[[menu.topbar]]
-    weight = 1
-    name = "Facebook"
-    url = "http://facebook.com"
-    pre = "<i class='fa fa-2x fa-facebook'></i>"
-
 [params]
     subtitle = "Uplifting work and life of Rakutenians through mindfulness-based approaches"
-    viewMorePostLink = "/news/"
     author = "Udana Bandara - Alessandro Baffa"
     defaultKeywords = ["rakuten", "mindfulness", "meditation", "rakuten-mindfulness", "wellbeing"]
     defaultDescription = "Rakuten Mindfulness Network"
 
-    # !!! NOT USED. LEAVE IT EMPTY - Google Maps API key (if not set will default to not passing a key.)
-    googleMapsApiKey = ""
-
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "red"
-
-    # !!! NOT USED
-    # Since this template is static, the contact form uses www.formspree.io as a
-    # proxy. The form makes a POST request to their servers to send the actual
-    # email. Visitors can send up to a 1000 emails each month for free.
-    #
-    # What you need to do for the setup?
-    #
-    # - set your email address under 'email' below
-    # - upload the generated site to your server
-    # - send a dummy email yourself to confirm your account
-    # - click the confirm link in the email from www.formspree.io
-    # - you're done. Happy mailing!
-    #
-    # Enable the contact form by entering your Formspree.io email
-    # email = "your@email.com"
 
     about_us = "<p>We are the Rakuten Mindfulness Network</p>"
     copyright = "Copyright (c) 2018, Rakuten; all rights reserved."
@@ -98,33 +68,19 @@ paginate = 10
 [Permalinks]
     blog = "/news/:year/:month/:day/:filename/"
 
-# Enable or disable top bar with social icons
-[params.topbar]
-    enable = false
-    text = ""
-
-# Enable and disable widgets for the right sidebar
-[params.widgets]
-    categories = false
-    tags = false
-    search = false
-
 [params.carousel]
     enable = true
-    # All carousel items are defined in their own files. You can find example items
-    # at 'exampleSite/data/carousel'.
-    # For more informtion take a look at the README.
 
 [params.features]
     enable = true
     # All features are defined in their own files. You can find example items
-    # at 'exampleSite/data/features'.
+    # at '/data/features'.
     # For more informtion take a look at the README.
 
 [params.testimonials]
     enable = false
     # All testimonials are defined in their own files. You can find example items
-    # at 'exampleSite/data/testimonials'.
+    # at '/data/testimonials'.
     # For more informtion take a look at the README.
     title = "Testimonials"
     subtitle = ""
@@ -156,14 +112,6 @@ paginate = 10
     subtitle_3 = "Join the network. Become a practictioner!"
     link_url_3 = "https://forms.office.com/Pages/ResponsePage.aspx?id=2bCoUwDZzEidflk13I1bF8Fwse-CEctDt39AX8Zug0NUODhCWjFBWFoxWEhXSVFJVlZXTlZONUhQUy4u"
     link_text_3 = "Join"
-
-[params.clients]
-    enable = false
-    # All clients are defined in their own files. You can find example items
-    # at 'exampleSite/data/clients'.
-    # For more informtion take a look at the README.
-    title = "Our Clients"
-    subtitle = ""
 
 [params.recent_posts]
     enable = true
