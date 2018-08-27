@@ -6,3 +6,6 @@
 
 - id: mediaMentions
   translation: "メディアの言及"
+
+- id: recentPosts
+  translation: "最新ニュース"

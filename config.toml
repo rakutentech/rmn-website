@@ -59,8 +59,6 @@ paginate = 10
 
 [params.recent_posts]
     enable = true
-    title = "Latest news"
-    subtitle = ""
 
 [languages]
 
