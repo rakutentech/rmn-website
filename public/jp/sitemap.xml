@@ -33,48 +33,6 @@
   </url>
   
   <url>
-    <loc>/jp/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="/jp/contact/"
-                />
-  </url>
-  
-  <url>
-    <loc>/jp/schedule/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/schedule/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="/jp/schedule/"
-                />
-  </url>
-  
-  <url>
-    <loc>/jp/media/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/media/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="/jp/media/"
-                />
-  </url>
-  
-  <url>
     <loc>/jp/news/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -118,6 +76,48 @@
                 rel="alternate"
                 hreflang="jp"
                 href="/jp/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/jp/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>/jp/schedule/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/schedule/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/schedule/"
+                />
+  </url>
+  
+  <url>
+    <loc>/jp/media/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/media/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="/jp/media/"
                 />
   </url>
   

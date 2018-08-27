@@ -70,5 +70,8 @@
 - id: publishedOn
   translation: "on"
 
+- id: mediaMentions
+  translation: "Media mentions"
+
 - id: carousel-subtitle
   translation: "Uplifting work and life of Rakutenians through mindfulness-based approaches"

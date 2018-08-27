@@ -96,12 +96,12 @@ paginate = 10
 
     [[languages.en.menu.main]]
         name = "Media"
-        url  = "/jp/media/"
+        url  = "/media/"
         weight = 4
 
     [[languages.en.menu.main]]
         name = "Events"
-        url  = "/jp/schedule/"
+        url  = "/schedule/"
         weight = 5
     
     [[languages.en.menu.main]]
@@ -136,12 +136,12 @@ paginate = 10
 
     [[languages.jp.menu.main]]
         name = "プレスルーム"
-        url  = "/media/"
+        url  = "/jp/media/"
         weight = 4
 
     [[languages.jp.menu.main]]
         name = "イベント"
-        url  = "/schedule/"
+        url  = "/jp/schedule/"
         weight = 5
 
     [[languages.jp.menu.main]]

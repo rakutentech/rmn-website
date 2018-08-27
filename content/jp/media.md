@@ -1,4 +1,4 @@
 +++
-title = "Media mentions"
+title = "メディアの言及"
 id = "media"
 +++

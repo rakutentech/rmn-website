@@ -2,4 +2,7 @@
   translation: "マインドフルネスに基づくアプローチによる楽観主義者の仕事と生活の向上"
 
 - id: contactTitle
-  translation: "接触"
+  translation: "お問い合わせ"
+
+- id: mediaMentions
+  translation: "メディアの言及"

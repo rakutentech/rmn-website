@@ -1,5 +1,5 @@
 +++
-title = "Who We Are?"
+title = "私たちは誰ですか？"
 description = "Who we are"
 keywords = ["about"]
 +++

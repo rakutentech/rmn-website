@@ -1,9 +1,9 @@
 +++
-title = "Event schedule"
+title = "イベントスケジュール"
 +++
 <div class="jumbotron-events">
     <div class="container">
-        <h1 class="text-center">Upcoming events</h1>
+        <h1 class="text-center">今後のイベント</h1>
     </div>             
 </div>
 <br />
