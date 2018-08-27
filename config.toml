@@ -3,7 +3,7 @@
 baseurl = "/"
 title = "Rakuten Mindfulness Network"
 theme = "hugo-universal-theme"
-languageCode = "en-us"
+
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
 
@@ -12,37 +12,6 @@ googleAnalytics = "UA-115772631-1"
 
 # Define the number of posts per page
 paginate = 10
-
-[menu]
-
-# Main menu
-[[menu.main]]
-    name = "About"
-    identifier = "about"
-    url  = "/about/"
-    weight = 1
-
-[[menu.main]]
-    name = "News"
-    url  = "/news/"
-    weight = 2
-
-[[menu.main]]
-    name = "Media mentions"
-    url  = "/media/"
-    weight = 3
-
-[[menu.main]]
-    name = "Events"
-    url  = "/schedule/"
-    weight = 4
-
-[[menu.main]]
-    name = "Contact"
-    url  = "/contact/"
-    weight = 5
-
-# <------ END OF HUGO GENERAL SETTINGS ------>
 
 # <------ START OF THEME SPECIFIC SETTINGS ------>
 
@@ -54,7 +23,6 @@ paginate = 10
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "red"
-
     about_us = "<p>We are the Rakuten Mindfulness Network</p>"
     copyright = "Copyright (c) 2018, Rakuten; all rights reserved."
 
@@ -89,33 +57,123 @@ paginate = 10
     enable = true
     title = "Media Mentions"
 
-[params.see_more]
-    enable = true
-    icon = "fa fa-file-code-o"
-    title = "Confluence"
-    subtitle = "Stay up to date with our activities"
-    link_url = "https://confluence.rakuten-it.com/confluence/display/RMN/"
-    link_text = "Join"
-
-[params.see_more_2]
-    enable = true
-    icon_2 = "fa fa-file-code-o"
-    title_2 = "Facebook"
-    subtitle_2 = "Follow us on Facebook"
-    link_url_2 = "https://www.facebook.com/rakutenmindfulness/"
-    link_text_2 = "Follow"
-
-[params.see_more_3]
-    enable = true
-    icon_3 = "fa fa-file-code-o"
-    title_3 = "Membership"
-    subtitle_3 = "Join the network. Become a practictioner!"
-    link_url_3 = "https://forms.office.com/Pages/ResponsePage.aspx?id=2bCoUwDZzEidflk13I1bF8Fwse-CEctDt39AX8Zug0NUODhCWjFBWFoxWEhXSVFJVlZXTlZONUhQUy4u"
-    link_text_3 = "Join"
-
 [params.recent_posts]
     enable = true
     title = "Latest news"
     subtitle = ""
 
-# <------ END OF THEME SPECIFIC SETTINGS ------>
+[languages]
+
+  [languages.en]
+    contentDir = "content/en"
+    weight = 1
+    languageName = "English"
+
+    [languages.en.menu]
+    # Main menu
+
+    [[languages.en.menu.main]]
+        name = "Home"
+        identifier = "home"
+        url  = "/"
+        weight = 1
+
+    [[languages.en.menu.main]]
+        name = "About"
+        identifier = "about"
+        url  = "/about/"
+        weight = 2
+
+    [[languages.en.menu.main]]
+        name = "News"
+        url  = "/news/"
+        weight = 3
+
+    [[languages.en.menu.main]]
+        name = "Contact"
+        url  = "/contact/"
+        weight = 6
+
+    [[languages.en.menu.main]]
+        name = "Media"
+        url  = "/jp/media/"
+        weight = 4
+
+    [[languages.en.menu.main]]
+        name = "Events"
+        url  = "/jp/schedule/"
+        weight = 5
+    
+    [[languages.en.menu.main]]
+        name = "日本語"
+        url  = "/jp"
+        weight = 7
+
+[languages.jp]
+    contentDir = "content/jp"
+    weight = 2
+    languageName = "Japanese"
+
+    [languages.jp.menu]
+    
+    # Main menu
+    [[languages.jp.menu.main]]
+        name = "ホーム"
+        identifier = "home"
+        url  = "/jp"
+        weight = 1
+
+    [[languages.jp.menu.main]]
+        name = "ネットワークについて"
+        identifier = "about"
+        url  = "/jp/about/"
+        weight = 2
+
+    [[languages.jp.menu.main]]
+        name = "ニュース"
+        url  = "/jp/news/"
+        weight = 3
+
+    [[languages.jp.menu.main]]
+        name = "プレスルーム"
+        url  = "/media/"
+        weight = 4
+
+    [[languages.jp.menu.main]]
+        name = "イベント"
+        url  = "/schedule/"
+        weight = 5
+
+    [[languages.jp.menu.main]]
+        name = "お問い合わせ"
+        url  = "/jp/contact/"
+        weight = 6
+
+    [[languages.jp.menu.main]]
+        name = "English"
+        url  = "/"
+        weight = 7
+
+    [languages.jp.params.see_more]
+        enable = true
+        icon = "fa fa-file-code-o"
+        title = "Confluence"
+        subtitle = "私たちの活動を最新の状態に保つ"
+        link_url = "https://confluence.rakuten-it.com/confluence/display/RMN/"
+        link_text = "Join"
+
+    [languages.jp.params.see_more_2]
+        enable = true
+        icon_2 = "fa fa-file-code-o"
+        title_2 = "Facebook"
+        subtitle_2 = "フェースブックでフォローして"
+        link_url_2 = "https://www.facebook.com/rakutenmindfulness/"
+        link_text_2 = "Follow"
+
+    [languages.jp.params.see_more_3]
+        enable = true
+        icon_3 = "fa fa-file-code-o"
+        title_3 = "Membership"
+        subtitle_3 = "ネットワークに参加する。 開業医になる！"
+        link_url_3 = "https://forms.office.com/Pages/ResponsePage.aspx?id=2bCoUwDZzEidflk13I1bF8Fwse-CEctDt39AX8Zug0NUODhCWjFBWFoxWEhXSVFJVlZXTlZONUhQUy4u"
+        link_text_3 = "Join"
