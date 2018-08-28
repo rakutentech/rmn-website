@@ -8,7 +8,7 @@ theme = "hugo-universal-theme"
 defaultContentLanguage = "en"
 
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = "UA-115772631-1"
+googleAnalytics = "UA-116203288-2"
 
 # Define the number of posts per page
 paginate = 10
