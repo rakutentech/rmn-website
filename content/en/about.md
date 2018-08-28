@@ -11,11 +11,11 @@ keywords = ["about"]
 </div>
 <br />
 <br />
-Rakuten Mindfulness Network (RMN) is an company supported employee-driven community established in July 2017 that aspires to uplift work and life of Rakutenians through mindfulness-based approaches . Employees who volunteer their time and talent to achieve this goal are the RMN Core Members. 
+Rakuten Mindfulness Network (RMN) is an company supported employee-driven community established in July 2017. RMN aspires to uplift work and life of Rakutenians through mindfulness-based approaches . Employees who volunteer their time and talent to achieve this goal are the Core Members. <br />
+<br />
 
-The Core Members are mindfulness practitioners who have benefited from their experiences of mindfulness practice. Their involvement with RMN is based on mindfulness, compassion, and joy to create a better workplace at Rakuten.
-
-Therefore, RMN activities are an opportunity for the Core Members to apply and improve their mindfulness practices. Through core-member activities, we practice what we promote as RMN.
+The Core Members are also mindfulness practitioners who have benefited from their mindfulness practice. Their involvement with RMN is based on mindfulness, compassion, and joy to create a better workplace at Rakuten. Therefore, RMN activities are an opportunity for the Core Members to apply and improve their mindfulness practices. Through core-member activities, we practice what we promote as RMN. <br />
+<br />
 
 <div class="row">
   <div class="col-sm-4">

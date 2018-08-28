@@ -1,6 +1,6 @@
 +++
 title = "Core member interview: Alessandro Baffa"
-date = "2018-08-20"
+date = "2018-07-20"
 banner = "img/news/Alessandro.jpg"
 +++
 
