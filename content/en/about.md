@@ -17,6 +17,8 @@ Rakuten Mindfulness Network (RMN) is a company supported employee-driven communi
 The Core Members are mindfulness practitioners who have benefited from their mindfulness practice. Their involvement with RMN is based on mindfulness, compassion, and joy to create a better workplace at Rakuten. Therefore, RMN activities are an opportunity for the Core Members to apply and improve their mindfulness practices. Through core-member activities, we practice what we promote as RMN. <br />
 <br />
 
+<h3 class="text-center">Our Core Values as RMN</h3>
+
 <div class="row">
   <div class="col-sm-4">
     <div class="card">
