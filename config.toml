@@ -101,11 +101,12 @@ paginate = 10
         name = "Events"
         url  = "/schedule/"
         weight = 5
-    
-    [[languages.en.menu.main]]
-        name = "日本語"
-        url  = "/jp"
-        weight = 7
+
+ # UNCOMMENT THIS TO ENABLE TO JAPANESE LANGUAGE IN THE MENU   
+ #   [[languages.en.menu.main]]
+ #       name = "日本語"
+ #       url  = "/jp"
+ #       weight = 7
 
 [languages.jp]
     contentDir = "content/jp"
