@@ -1,5 +1,5 @@
 +++
-title = "Who We Are?"
+title = "Who We Are"
 description = "Who we are"
 keywords = ["about"]
 +++
@@ -41,7 +41,7 @@ The core members are mindfulness practitioners who have benefited from their min
     <div class="card">
       <div class="card-body">
         <h3 class="card-title bg-info text-center">Joy</h3>
-        <p class="card-text">Pure joy unadulterated by self-interest, especially joy arising from goodness, generosity, loving-kindness, and compassion</p>
+        <p class="card-text">Pure joy unadulterated by self-interest; especially joy arising from goodness, generosity, loving-kindness, and compassion.</p>
       </div>
     </div>
   </div>
