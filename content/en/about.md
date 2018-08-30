@@ -6,7 +6,7 @@ keywords = ["about"]
 
 <div class="jumbotron-about">
    <div class="container">
-        <h1 class="text-center" style="color: white"></h1>
+        <h1 class="text-center" style="color: white">Who We Are</h1>
     </div>         
 </div>
 <br />
