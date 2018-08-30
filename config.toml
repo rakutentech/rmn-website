@@ -30,7 +30,7 @@ paginate = 10
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
-    logosns = "https://rmn-website.netlify.com/img/logo-sns.png"
+    logosns = "https://www.rakuten-mindfulness.org/img/logo-sns.png"
     address = "Rakuten Crimson House, <br /> Tamagawa 1-14-1, Setagaya-ku, Tokyo 158-0094, JAPAN"
 
 [Permalinks]

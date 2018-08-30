@@ -8,7 +8,7 @@ title = "Event schedule"
 </div>
 <br />
 <br />
-<h3 class="text-center">Here is the calander of the mindfulness network events for employees in Rakuten </h3>
+<h3 class="text-center">Here is the calendar of Mindfulness Network events for Rakuten employees </h3>
 <div class="jumbotron-no-background">
     <div class="container">
         <h1 class="text-center">      
