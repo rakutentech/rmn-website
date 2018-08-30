@@ -57,9 +57,9 @@
 .jumbotron-about {
   padding: 30px;
   margin-bottom: 0;
-  min-height: 150px;
+  min-height: 300px;
   position: relative;
-  background: url('../img/about.jpg') center center repeat;
+  background: url('../img/about_2.jpg') center center repeat;
   background-size: cover;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
