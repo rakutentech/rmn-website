@@ -19,7 +19,9 @@ paginate = 10
     subtitle = "Uplifting work and life of Rakutenians through mindfulness-based approaches"
     author = "Udana Bandara - Alessandro Baffa"
     defaultKeywords = ["rakuten", "mindfulness", "meditation", "rakuten-mindfulness", "wellbeing"]
-    defaultDescription = "Rakuten Mindfulness Network"
+    defaultDescription = "Rakuten Mindfulness Network is a company-supported, employee-driven initiative for promoting wellbeing among 
+    the employees through mindfulness-based approaches. We organize workshops, lectures, group meditation sessions, 
+    collaborative research studies, invited talks and various community activities. "
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "red"
@@ -30,7 +32,7 @@ paginate = 10
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
-    logosns = "https://www.rakuten-mindfulness.org/img/logo-sns.png"
+    logosns = "http://www.rakuten-mindfulness.org/img/logo-sns.png"
     address = "Rakuten Crimson House, <br /> Tamagawa 1-14-1, Setagaya-ku, Tokyo 158-0094, JAPAN"
 
 [Permalinks]
