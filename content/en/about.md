@@ -11,7 +11,7 @@ keywords = ["about"]
 </div>
 <br />
 <br />
-Rakuten Mindfulness Network (RMN) is a company-supported, employee-driven community established in July, 2017. RMN aspires to uplift the quality of work and life of Rakuten employees through mindfulness-based approaches. The core members who volunteer their time and talent to provide these services are also Rakuten employees. 
+Rakuten Mindfulness Network (RMN) is a company-supported, employee-driven community established in July, 2017. We aspires to uplift the quality of work and life of Rakuten employees through mindfulness-based approaches. Currently, more than 800 Rakuten employees have participated in our activities. The core members who volunteer their time and talent to provide these services are also Rakuten employees. 
 <br />
 <br />
 The core members are mindfulness practitioners who have benefited from their mindfulness practice. Their involvement with RMN is based on our three principles: mindfulness, compassion, and joy. Therefore, RMN activities also serve as opportunities for our core members to apply and improve their own mindfulness practices. Through core-member activities, we practice what we promote as RMN.
