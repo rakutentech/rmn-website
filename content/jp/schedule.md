@@ -3,11 +3,12 @@ title = "イベントスケジュール"
 +++
 <div class="jumbotron-events">
     <div class="container">
-        <h1 class="text-center">今後のイベント</h1>
+        <h1 class="text-center">イベント</h1>
     </div>             
 </div>
 <br />
 <br />
+<h3 class="text-center">楽天社員向けのマインドフルネスネットワークのイベントはこちらからご覧になれます。</h3>
 <div class="jumbotron-no-background">
     <div class="container">
         <h1 class="text-center">      

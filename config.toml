@@ -102,11 +102,11 @@ paginate = 10
         url  = "/schedule/"
         weight = 5
 
- # UNCOMMENT THIS TO ENABLE TO JAPANESE LANGUAGE IN THE MENU   
- #   [[languages.en.menu.main]]
- #       name = "日本語"
- #       url  = "/jp"
- #       weight = 7
+ # UNCOMMENT THE FOLLOWING 4 LINES TO DISEABLE JAPANESE LANGUAGE IN THE MENU   
+   [[languages.en.menu.main]]
+       name = "日本語"
+       url  = "/jp"
+       weight = 7
 
 [languages.jp]
     contentDir = "content/jp"
@@ -123,7 +123,7 @@ paginate = 10
         weight = 1
 
     [[languages.jp.menu.main]]
-        name = "ネットワークについて"
+        name = "私達について"
         identifier = "about"
         url  = "/jp/about/"
         weight = 2
@@ -134,7 +134,7 @@ paginate = 10
         weight = 3
 
     [[languages.jp.menu.main]]
-        name = "プレスルーム"
+        name = "メディア掲載"
         url  = "/jp/media/"
         weight = 4
 
@@ -154,25 +154,25 @@ paginate = 10
         weight = 7
 
     [languages.jp.params.see_more]
-        enable = true
+        enable = false
         icon = "fa fa-file-code-o"
         title = "Confluence"
-        subtitle = "私たちの活動を最新の状態に保つ"
+        subtitle = "社内コンテンツ"
         link_url = "https://confluence.rakuten-it.com/confluence/display/RMN/"
         link_text = "Join"
 
     [languages.jp.params.see_more_2]
-        enable = true
+        enable = false
         icon_2 = "fa fa-file-code-o"
         title_2 = "Facebook"
-        subtitle_2 = "フェースブックでフォローして"
+        subtitle_2 = "フェースブックでフォロー"
         link_url_2 = "https://www.facebook.com/rakutenmindfulness/"
         link_text_2 = "Follow"
 
     [languages.jp.params.see_more_3]
-        enable = true
+        enable = false
         icon_3 = "fa fa-file-code-o"
         title_3 = "Membership"
-        subtitle_3 = "ネットワークに参加する。 開業医になる！"
+        subtitle_3 = "社員登録"
         link_url_3 = "https://forms.office.com/Pages/ResponsePage.aspx?id=2bCoUwDZzEidflk13I1bF8Fwse-CEctDt39AX8Zug0NUODhCWjFBWFoxWEhXSVFJVlZXTlZONUhQUy4u"
         link_text_3 = "Join"
