@@ -135,7 +135,7 @@ paginate = 10
 
     [[languages.jp.menu.main]]
         name = "メディア掲載"
-        url  = "/jp/media/"
+        url  = "/media/"
         weight = 4
 
     [[languages.jp.menu.main]]
