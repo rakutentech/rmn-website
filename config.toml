@@ -102,11 +102,11 @@ paginate = 10
         url  = "/schedule/"
         weight = 5
 
- # UNCOMMENT THE FOLLOWING 4 LINES TO DISEABLE JAPANESE LANGUAGE IN THE MENU   
-   [[languages.en.menu.main]]
-       name = "日本語"
-       url  = "/jp/"
-       weight = 7
+ # COMMENT THE FOLLOWING 4 LINES TO DISEABLE JAPANESE LANGUAGE IN THE MENU   
+   #[[languages.en.menu.main]]
+      # name = "日本語"
+      # url  = "/jp/"
+      # weight = 7
 
 [languages.jp]
     contentDir = "content/jp/"
