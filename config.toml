@@ -81,9 +81,9 @@ paginate = 10
         identifier = "about"
         url  = "/about/"
         weight = 2
-
+# News --> Blog 
     [[languages.en.menu.main]]
-        name = "News"
+        name = "Blog"
         url  = "/news/"
         weight = 3
 
@@ -91,9 +91,9 @@ paginate = 10
         name = "Contact"
         url  = "/contact/"
         weight = 6
-
+# Media --> Press
     [[languages.en.menu.main]]
-        name = "Media"
+        name = "Press"
         url  = "/media/"
         weight = 4
 
@@ -104,9 +104,9 @@ paginate = 10
 
  # COMMENT THE FOLLOWING 4 LINES TO DISEABLE JAPANESE LANGUAGE IN THE MENU   
   # [[languages.en.menu.main]]
-     #  name = "日本語"
-      # url  = "/jp/"
-      # weight = 7
+  #     name = "日本語"
+  #     url  = "/jp/"
+  #     weight = 7
 
 [languages.jp]
     contentDir = "content/jp/"
